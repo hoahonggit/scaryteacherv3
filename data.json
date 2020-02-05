@@ -2,5 +2,5 @@
     "appId":"com.horrible.teacher",
     "isLive":true,
     "moveId":"com.scary.teacher.guide",
-    "isShowInter":true
+    "isShowInter":false
 }
